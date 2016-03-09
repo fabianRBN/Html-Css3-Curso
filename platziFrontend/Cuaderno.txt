@@ -1,0 +1,6 @@
+Metodologia BEM
+	Bloque elemento modificador
+	{
+		Los sitios estan compuestos por bloques  y estas tienen  Elementos y estos pueden como no tener modificadores
+
+	}
